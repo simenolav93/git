@@ -9,7 +9,7 @@ and some extra
   - create a new project folder
   - run 'git init' in the project folder
 # Step 2: Staging enviroment
-  -'git status' showes what files you have made changes to or misses after the lates commit
+  - 'git status' showes what files you have made changes to or misses after the lates commit
 # Step 3: Add a file to the staging environment
   - 'git add .' or 'git add fileName' adds the files to the commit(does not commit them)
 # Step 4: Create a commit
@@ -25,7 +25,7 @@ and some extra
   - 'git remote add origin https://github.com/yourGithubUserName/yourGithubRepositoryName.git'
   - 'git push -u origin master'
 # Step 7: Push a branch to GitHub
-  -'git push origin branchName'
+  - 'git push origin branchName'
 # Step 8: Create a Pull Request (PR)
   - everybody can make a pull to a project but only the project owner can accept if the pull is going to happend(actualy make the change to the master). This is almoste like asking for permission to make a change to the master branch.
 # Step 9: Merge a PR
