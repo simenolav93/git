@@ -1,2 +1,6 @@
-# git
-How to use git and github
+# HOW TO USE git & github
+
+Allways start with:
+
+'git init'
+
