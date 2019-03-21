@@ -7,7 +7,7 @@ and some extra
 # Step 0: Install git and create a GitHub account 
 # Step 1: Create a local git repository 
   - create a new project folder
-  - run 'git init' in the project folder
+  - run: `git init` in the project folder
 # Step 2: Staging enviroment
   - 'git status' showes what files you have made changes to or misses after the lates commit
 # Step 3: Add a file to the staging environment
