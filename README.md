@@ -40,6 +40,9 @@ https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
   - `git pull origin master`
 
 
+
+# Some more us
+
 # Branch
 `git branch -d branchName` deletes a local branch. Usualy used after merge with local master.
 
