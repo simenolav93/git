@@ -39,3 +39,12 @@ https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
   - if the master branch have been changed on github it have to be pulled before worked on. Or else it is going to be diffrent from the master on github
   - `git pull origin master`
 
+
+# Branch
+`git branch -d branchName` deletes a local branch. Usualy used after merge with local master.
+
+# Remote - Check and change remote
+`git remote -v` check the current folders remote URL
+`git remote set-url origin newRemoteURL` i think this is the same as `git remote set-url currentRemoteURL newRemoteURL` changes the remote url. Usualy used a repository have been cloned and you want to create a own/new repository.
+
+
