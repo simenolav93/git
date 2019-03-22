@@ -3,6 +3,10 @@
 This is shortend version of: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 and some extra
 
+GtiHubs own git cheat sheet:
+https://github.github.com/training-kit/downloads/github-git-cheat-sheet/
+
+
 
 # Step 0: Install git and create a GitHub account 
 # Step 1: Create a local git repository 
